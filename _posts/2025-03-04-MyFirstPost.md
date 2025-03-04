@@ -1,5 +1,5 @@
 layout: post
-title: "Das ist mein erster Post"
+title: "Erster-Post"
 date: 2025-03-04 15:12:00 -0000
 categories: Posts Informationen Wichtig
 
